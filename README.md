@@ -34,6 +34,7 @@ This portfolio features:
 - **GitHub:** [https://github.com/siyavuyachagi](https://github.com/siyavuyachagi)  
 - **LinkedIn:** [https://linkedin.com/in/siyavuyachagi](https://linkedin.com/in/siyavuyachagi)  
 - **Twitter:** [https://twitter.com/siyavuya_chagi](https://twitter.com/siyavuya_chagi)
+- **Facebook:** [https://web.facebook.com/syavuyachagi](https://web.facebook.com/syavuyachagi)
 
 ---
 
