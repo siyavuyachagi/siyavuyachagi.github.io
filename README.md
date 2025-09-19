@@ -31,10 +31,10 @@ This portfolio features:
 ## 📬 Connect With Me
 
 - **Email:** syavuya08@gmail.com  
-- **GitHub:** [https://github.com/siyavuyachagi](https://github.com/siyavuyachagi)  
-- **LinkedIn:** [https://linkedin.com/in/siyavuyachagi](https://linkedin.com/in/siyavuyachagi)  
-- **Twitter:** [https://twitter.com/siyavuya_chagi](https://twitter.com/siyavuya_chagi)
-- **Facebook:** [https://web.facebook.com/syavuyachagi](https://web.facebook.com/syavuyachagi)
+- **GitHub:** [@siyavuyachagi](https://github.com/siyavuyachagi)  
+- **LinkedIn:** [@siyavuyachagi](https://linkedin.com/in/siyavuyachagi)  
+- **Twitter:** [@siyavuya_chagi](https://twitter.com/siyavuya_chagi)
+- **Facebook:** [@syavuyachagi](https://web.facebook.com/syavuyachagi)
 
 ---
 
