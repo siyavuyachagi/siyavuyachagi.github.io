@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow: /admin/
+Disallow: /private/
+Disallow: /_nuxt/
+
+Sitemap: https://siyavuyachagi.github.io/sitemap.xml
